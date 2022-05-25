@@ -1,2 +1,2 @@
-rmdir /tmp/betty
+rm betty
 #!/bin/bash
