@@ -1,1 +1,1 @@
-Task 0.where ami?
+script that switches the current user to the user betty
