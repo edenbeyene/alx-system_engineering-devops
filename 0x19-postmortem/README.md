@@ -1,7 +1,7 @@
-#postmortem
-###This project contains tasks for learning about writing a postmortem.
-#Tasks To Complete
-### 0. My first postmortem
+# postmortem
+### This project contains tasks for learning about writing a postmortem.
+# Tasks To Complete
+###  0. My first postmortem
 Blog_Post.md contains a blog post that meets the following requirements:
 
 INFO:
